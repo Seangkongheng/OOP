@@ -11,6 +11,5 @@ class Fruit{
       }
 }   
 $app= new Fruit();
-$app->set_name("apple");
-echo "name:". $app->set_name();
+
 ?>
